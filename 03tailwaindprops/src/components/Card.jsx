@@ -1,5 +1,3 @@
-import React from 'react'
-
 function Card({userName,btnText = "click me"}) {
   return (
     <div className="max-w-xs rounded-md shadow-md bg-black text-gray-100">
